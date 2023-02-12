@@ -1,0 +1,1146 @@
+{
+    "0 AnimationClip Base": 
+    {
+        "1 string m_Name": "Run",
+        "0 bool m_Legacy": false,
+        "0 bool m_Compressed": false,
+        "1 bool m_UseHighQualityCurve": true,
+        "0 vector m_RotationCurves":  {
+            "0 Array Array": []
+        },
+        "0 vector m_CompressedRotationCurves":  {
+            "0 Array Array": []
+        },
+        "0 vector m_EulerCurves":  {
+            "0 Array Array": []
+        },
+        "0 vector m_PositionCurves":  {
+            "0 Array Array": []
+        },
+        "0 vector m_ScaleCurves":  {
+            "0 Array Array": []
+        },
+        "0 vector m_FloatCurves":  {
+            "0 Array Array": []
+        },
+        "0 vector m_PPtrCurves":  {
+            "0 Array Array": []
+        },
+        "0 float m_SampleRate": 48,
+        "0 int m_WrapMode": 0,
+        "0 AABB m_Bounds": 
+        {
+            "0 Vector3f m_Center": 
+            {
+                "0 float x": 0,
+                "0 float y": 0,
+                "0 float z": 0
+            },
+            "0 Vector3f m_Extent": 
+            {
+                "0 float x": 0,
+                "0 float y": 0,
+                "0 float z": 0
+            }
+        },
+        "0 unsigned int m_MuscleClipSize": 3004,
+        "0 ClipMuscleConstant m_MuscleClip": 
+        {
+            "0 HumanPose m_DeltaPose": 
+            {
+                "0 xform m_RootX": 
+                {
+                    "0 float3 t": 
+                    {
+                        "0 float x": 0,
+                        "0 float y": 0,
+                        "0 float z": 0
+                    },
+                    "0 float4 q": 
+                    {
+                        "0 float x": 0,
+                        "0 float y": 0,
+                        "0 float z": 0,
+                        "0 float w": 1
+                    },
+                    "0 float3 s": 
+                    {
+                        "0 float x": 1,
+                        "0 float y": 1,
+                        "0 float z": 1
+                    }
+                },
+                "0 float3 m_LookAtPosition": 
+                {
+                    "0 float x": 0,
+                    "0 float y": 0,
+                    "0 float z": 0
+                },
+                "0 float4 m_LookAtWeight": 
+                {
+                    "0 float x": 0,
+                    "0 float y": 0,
+                    "0 float z": 0,
+                    "0 float w": 0
+                },
+                "0 staticvector m_GoalArray":  {
+                    "0 Array Array": [
+                        {"0 HumanGoal data": 
+                        {
+                            "0 xform m_X": 
+                            {
+                                "0 float3 t": 
+                                {
+                                    "0 float x": 0,
+                                    "0 float y": 0,
+                                    "0 float z": 0
+                                },
+                                "0 float4 q": 
+                                {
+                                    "0 float x": 0,
+                                    "0 float y": 0,
+                                    "0 float z": 0,
+                                    "0 float w": 1
+                                },
+                                "0 float3 s": 
+                                {
+                                    "0 float x": 1,
+                                    "0 float y": 1,
+                                    "0 float z": 1
+                                }
+                            },
+                            "0 float m_WeightT": 0,
+                            "0 float m_WeightR": 0,
+                            "0 float3 m_HintT": 
+                            {
+                                "0 float x": 0,
+                                "0 float y": 0,
+                                "0 float z": 0
+                            },
+                            "0 float m_HintWeightT": 0
+                        }},
+                        {"0 HumanGoal data": 
+                        {
+                            "0 xform m_X": 
+                            {
+                                "0 float3 t": 
+                                {
+                                    "0 float x": 0,
+                                    "0 float y": 0,
+                                    "0 float z": 0
+                                },
+                                "0 float4 q": 
+                                {
+                                    "0 float x": 0,
+                                    "0 float y": 0,
+                                    "0 float z": 0,
+                                    "0 float w": 1
+                                },
+                                "0 float3 s": 
+                                {
+                                    "0 float x": 1,
+                                    "0 float y": 1,
+                                    "0 float z": 1
+                                }
+                            },
+                            "0 float m_WeightT": 0,
+                            "0 float m_WeightR": 0,
+                            "0 float3 m_HintT": 
+                            {
+                                "0 float x": 0,
+                                "0 float y": 0,
+                                "0 float z": 0
+                            },
+                            "0 float m_HintWeightT": 0
+                        }},
+                        {"0 HumanGoal data": 
+                        {
+                            "0 xform m_X": 
+                            {
+                                "0 float3 t": 
+                                {
+                                    "0 float x": 0,
+                                    "0 float y": 0,
+                                    "0 float z": 0
+                                },
+                                "0 float4 q": 
+                                {
+                                    "0 float x": 0,
+                                    "0 float y": 0,
+                                    "0 float z": 0,
+                                    "0 float w": 1
+                                },
+                                "0 float3 s": 
+                                {
+                                    "0 float x": 1,
+                                    "0 float y": 1,
+                                    "0 float z": 1
+                                }
+                            },
+                            "0 float m_WeightT": 0,
+                            "0 float m_WeightR": 0,
+                            "0 float3 m_HintT": 
+                            {
+                                "0 float x": 0,
+                                "0 float y": 0,
+                                "0 float z": 0
+                            },
+                            "0 float m_HintWeightT": 0
+                        }},
+                        {"0 HumanGoal data": 
+                        {
+                            "0 xform m_X": 
+                            {
+                                "0 float3 t": 
+                                {
+                                    "0 float x": 0,
+                                    "0 float y": 0,
+                                    "0 float z": 0
+                                },
+                                "0 float4 q": 
+                                {
+                                    "0 float x": 0,
+                                    "0 float y": 0,
+                                    "0 float z": 0,
+                                    "0 float w": 1
+                                },
+                                "0 float3 s": 
+                                {
+                                    "0 float x": 1,
+                                    "0 float y": 1,
+                                    "0 float z": 1
+                                }
+                            },
+                            "0 float m_WeightT": 0,
+                            "0 float m_WeightR": 0,
+                            "0 float3 m_HintT": 
+                            {
+                                "0 float x": 0,
+                                "0 float y": 0,
+                                "0 float z": 0
+                            },
+                            "0 float m_HintWeightT": 0
+                        }}
+                    ]
+                },
+                "0 HandPose m_LeftHandPose": 
+                {
+                    "0 xform m_GrabX": 
+                    {
+                        "0 float3 t": 
+                        {
+                            "0 float x": 0,
+                            "0 float y": 0,
+                            "0 float z": 0
+                        },
+                        "0 float4 q": 
+                        {
+                            "0 float x": 0,
+                            "0 float y": 0,
+                            "0 float z": 0,
+                            "0 float w": 1
+                        },
+                        "0 float3 s": 
+                        {
+                            "0 float x": 1,
+                            "0 float y": 1,
+                            "0 float z": 1
+                        }
+                    },
+                    "0 staticvector m_DoFArray":  {
+                        "0 Array Array": [
+                            {"0 float data": 0},
+                            {"0 float data": 0},
+                            {"0 float data": 0},
+                            {"0 float data": 0},
+                            {"0 float data": 0},
+                            {"0 float data": 0},
+                            {"0 float data": 0},
+                            {"0 float data": 0},
+                            {"0 float data": 0},
+                            {"0 float data": 0},
+                            {"0 float data": 0},
+                            {"0 float data": 0},
+                            {"0 float data": 0},
+                            {"0 float data": 0},
+                            {"0 float data": 0},
+                            {"0 float data": 0},
+                            {"0 float data": 0},
+                            {"0 float data": 0},
+                            {"0 float data": 0},
+                            {"0 float data": 0}
+                        ]
+                    },
+                    "0 float m_Override": 0,
+                    "0 float m_CloseOpen": 0,
+                    "0 float m_InOut": 0,
+                    "0 float m_Grab": 0
+                },
+                "0 HandPose m_RightHandPose": 
+                {
+                    "0 xform m_GrabX": 
+                    {
+                        "0 float3 t": 
+                        {
+                            "0 float x": 0,
+                            "0 float y": 0,
+                            "0 float z": 0
+                        },
+                        "0 float4 q": 
+                        {
+                            "0 float x": 0,
+                            "0 float y": 0,
+                            "0 float z": 0,
+                            "0 float w": 1
+                        },
+                        "0 float3 s": 
+                        {
+                            "0 float x": 1,
+                            "0 float y": 1,
+                            "0 float z": 1
+                        }
+                    },
+                    "0 staticvector m_DoFArray":  {
+                        "0 Array Array": [
+                            {"0 float data": 0},
+                            {"0 float data": 0},
+                            {"0 float data": 0},
+                            {"0 float data": 0},
+                            {"0 float data": 0},
+                            {"0 float data": 0},
+                            {"0 float data": 0},
+                            {"0 float data": 0},
+                            {"0 float data": 0},
+                            {"0 float data": 0},
+                            {"0 float data": 0},
+                            {"0 float data": 0},
+                            {"0 float data": 0},
+                            {"0 float data": 0},
+                            {"0 float data": 0},
+                            {"0 float data": 0},
+                            {"0 float data": 0},
+                            {"0 float data": 0},
+                            {"0 float data": 0},
+                            {"0 float data": 0}
+                        ]
+                    },
+                    "0 float m_Override": 0,
+                    "0 float m_CloseOpen": 0,
+                    "0 float m_InOut": 0,
+                    "0 float m_Grab": 0
+                },
+                "0 staticvector m_DoFArray":  {
+                    "0 Array Array": [
+                        {"0 float data": 0},
+                        {"0 float data": 0},
+                        {"0 float data": 0},
+                        {"0 float data": 0},
+                        {"0 float data": 0},
+                        {"0 float data": 0},
+                        {"0 float data": 0},
+                        {"0 float data": 0},
+                        {"0 float data": 0},
+                        {"0 float data": 0},
+                        {"0 float data": 0},
+                        {"0 float data": 0},
+                        {"0 float data": 0},
+                        {"0 float data": 0},
+                        {"0 float data": 0},
+                        {"0 float data": 0},
+                        {"0 float data": 0},
+                        {"0 float data": 0},
+                        {"0 float data": 0},
+                        {"0 float data": 0},
+                        {"0 float data": 0},
+                        {"0 float data": 0},
+                        {"0 float data": 0},
+                        {"0 float data": 0},
+                        {"0 float data": 0},
+                        {"0 float data": 0},
+                        {"0 float data": 0},
+                        {"0 float data": 0},
+                        {"0 float data": 0},
+                        {"0 float data": 0},
+                        {"0 float data": 0},
+                        {"0 float data": 0},
+                        {"0 float data": 0},
+                        {"0 float data": 0},
+                        {"0 float data": 0},
+                        {"0 float data": 0},
+                        {"0 float data": 0},
+                        {"0 float data": 0},
+                        {"0 float data": 0},
+                        {"0 float data": 0},
+                        {"0 float data": 0},
+                        {"0 float data": 0},
+                        {"0 float data": 0},
+                        {"0 float data": 0},
+                        {"0 float data": 0},
+                        {"0 float data": 0},
+                        {"0 float data": 0},
+                        {"0 float data": 0},
+                        {"0 float data": 0},
+                        {"0 float data": 0},
+                        {"0 float data": 0},
+                        {"0 float data": 0},
+                        {"0 float data": 0},
+                        {"0 float data": 0},
+                        {"0 float data": 0}
+                    ]
+                },
+                "0 staticvector m_TDoFArray":  {
+                    "0 Array Array": [
+                        {"0 float3 data": 
+                        {
+                            "0 float x": 0,
+                            "0 float y": 0,
+                            "0 float z": 0
+                        }},
+                        {"0 float3 data": 
+                        {
+                            "0 float x": 0,
+                            "0 float y": 0,
+                            "0 float z": 0
+                        }},
+                        {"0 float3 data": 
+                        {
+                            "0 float x": 0,
+                            "0 float y": 0,
+                            "0 float z": 0
+                        }},
+                        {"0 float3 data": 
+                        {
+                            "0 float x": 0,
+                            "0 float y": 0,
+                            "0 float z": 0
+                        }},
+                        {"0 float3 data": 
+                        {
+                            "0 float x": 0,
+                            "0 float y": 0,
+                            "0 float z": 0
+                        }},
+                        {"0 float3 data": 
+                        {
+                            "0 float x": 0,
+                            "0 float y": 0,
+                            "0 float z": 0
+                        }},
+                        {"0 float3 data": 
+                        {
+                            "0 float x": 0,
+                            "0 float y": 0,
+                            "0 float z": 0
+                        }},
+                        {"0 float3 data": 
+                        {
+                            "0 float x": 0,
+                            "0 float y": 0,
+                            "0 float z": 0
+                        }}
+                    ]
+                }
+            },
+            "0 xform m_StartX": 
+            {
+                "0 float3 t": 
+                {
+                    "0 float x": 0,
+                    "0 float y": 0,
+                    "0 float z": 0
+                },
+                "0 float4 q": 
+                {
+                    "0 float x": 0,
+                    "0 float y": 0,
+                    "0 float z": 0,
+                    "0 float w": 1
+                },
+                "0 float3 s": 
+                {
+                    "0 float x": 1,
+                    "0 float y": 1,
+                    "0 float z": 1
+                }
+            },
+            "0 xform m_StopX": 
+            {
+                "0 float3 t": 
+                {
+                    "0 float x": 0,
+                    "0 float y": 0,
+                    "0 float z": 0
+                },
+                "0 float4 q": 
+                {
+                    "0 float x": 0,
+                    "0 float y": 0,
+                    "0 float z": 0,
+                    "0 float w": 1
+                },
+                "0 float3 s": 
+                {
+                    "0 float x": 1,
+                    "0 float y": 1,
+                    "0 float z": 1
+                }
+            },
+            "0 xform m_LeftFootStartX": 
+            {
+                "0 float3 t": 
+                {
+                    "0 float x": 0,
+                    "0 float y": 0,
+                    "0 float z": 0
+                },
+                "0 float4 q": 
+                {
+                    "0 float x": 0,
+                    "0 float y": 0,
+                    "0 float z": 0,
+                    "0 float w": 1
+                },
+                "0 float3 s": 
+                {
+                    "0 float x": 1,
+                    "0 float y": 1,
+                    "0 float z": 1
+                }
+            },
+            "0 xform m_RightFootStartX": 
+            {
+                "0 float3 t": 
+                {
+                    "0 float x": 0,
+                    "0 float y": 0,
+                    "0 float z": 0
+                },
+                "0 float4 q": 
+                {
+                    "0 float x": 0,
+                    "0 float y": 0,
+                    "0 float z": 0,
+                    "0 float w": 1
+                },
+                "0 float3 s": 
+                {
+                    "0 float x": 1,
+                    "0 float y": 1,
+                    "0 float z": 1
+                }
+            },
+            "0 float3 m_AverageSpeed": 
+            {
+                "0 float x": 0,
+                "0 float y": 0,
+                "0 float z": 0
+            },
+            "0 OffsetPtr m_Clip":  {
+                "0 Clip data": 
+                {
+                    "0 StreamedClip m_StreamedClip": 
+                    {
+                        "0 vector data":  {
+                            "0 Array Array": [
+                                {"0 unsigned int data": 4286578687},
+                                {"0 unsigned int data": 1},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 1017817771},
+                                {"0 unsigned int data": 1},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 1065353216},
+                                {"0 unsigned int data": 1026206379},
+                                {"0 unsigned int data": 1},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 1073741824},
+                                {"0 unsigned int data": 1031798784},
+                                {"0 unsigned int data": 1},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 1077936128},
+                                {"0 unsigned int data": 1034594987},
+                                {"0 unsigned int data": 1},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 1082130432},
+                                {"0 unsigned int data": 1037391189},
+                                {"0 unsigned int data": 1},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 1084227584},
+                                {"0 unsigned int data": 1040187392},
+                                {"0 unsigned int data": 1},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 1086324736},
+                                {"0 unsigned int data": 1041585493},
+                                {"0 unsigned int data": 1},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 1088421888},
+                                {"0 unsigned int data": 1042983595},
+                                {"0 unsigned int data": 1},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 1090519040},
+                                {"0 unsigned int data": 1044381696},
+                                {"0 unsigned int data": 1},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 1091567616},
+                                {"0 unsigned int data": 1045779797},
+                                {"0 unsigned int data": 1},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 1092616192},
+                                {"0 unsigned int data": 1047177899},
+                                {"0 unsigned int data": 1},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 1093664768},
+                                {"0 unsigned int data": 1048576000},
+                                {"0 unsigned int data": 1},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 1094713344},
+                                {"0 unsigned int data": 1049275051},
+                                {"0 unsigned int data": 1},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 1095761920},
+                                {"0 unsigned int data": 1049974101},
+                                {"0 unsigned int data": 1},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 1096810496},
+                                {"0 unsigned int data": 1050673152},
+                                {"0 unsigned int data": 1},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 1097859072},
+                                {"0 unsigned int data": 1051372203},
+                                {"0 unsigned int data": 1},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 1098907648},
+                                {"0 unsigned int data": 1052071253},
+                                {"0 unsigned int data": 1},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 1099431936},
+                                {"0 unsigned int data": 1052770304},
+                                {"0 unsigned int data": 1},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 1099956224},
+                                {"0 unsigned int data": 1053469355},
+                                {"0 unsigned int data": 1},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 1100480512},
+                                {"0 unsigned int data": 1054168405},
+                                {"0 unsigned int data": 1},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 1101004800},
+                                {"0 unsigned int data": 1054867456},
+                                {"0 unsigned int data": 1},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 1101529088},
+                                {"0 unsigned int data": 1055566507},
+                                {"0 unsigned int data": 1},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 1102053376},
+                                {"0 unsigned int data": 1056265557},
+                                {"0 unsigned int data": 1},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 1102577664},
+                                {"0 unsigned int data": 1056964608},
+                                {"0 unsigned int data": 1},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 1103101952},
+                                {"0 unsigned int data": 1057314133},
+                                {"0 unsigned int data": 1},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 1103626240},
+                                {"0 unsigned int data": 1057663659},
+                                {"0 unsigned int data": 1},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 1104150528},
+                                {"0 unsigned int data": 1058013184},
+                                {"0 unsigned int data": 1},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 1104674816},
+                                {"0 unsigned int data": 1058362709},
+                                {"0 unsigned int data": 1},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 0},
+                                {"0 unsigned int data": 1105199104},
+                                {"0 unsigned int data": 2139095040},
+                                {"0 unsigned int data": 0}
+                            ]
+                        },
+                        "0 unsigned int curveCount": 1
+                    },
+                    "0 DenseClip m_DenseClip": 
+                    {
+                        "0 int m_FrameCount": 30,
+                        "0 unsigned int m_CurveCount": 0,
+                        "0 float m_SampleRate": 48,
+                        "0 float m_BeginTime": 0,
+                        "0 vector m_SampleArray":  {
+                            "0 Array Array": []
+                        }
+                    },
+                    "0 ConstantClip m_ConstantClip":  {
+                        "0 vector data":  {
+                            "0 Array Array": []
+                        }
+                    },
+                    "0 OffsetPtr m_Binding":  {
+                        "0 ValueArrayConstant data":  {
+                            "0 vector m_ValueArray":  {
+                                "0 Array Array": []
+                            }
+                        }
+                    }
+                }
+            },
+            "0 float m_StartTime": 0,
+            "0 float m_StopTime": 0.604166627,
+            "0 float m_OrientationOffsetY": 0,
+            "0 float m_Level": 0,
+            "0 float m_CycleOffset": 0,
+            "0 float m_AverageAngularSpeed": 0,
+            "0 staticvector m_IndexArray":  {
+                "0 Array Array": [
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1},
+                    {"0 int data": -1}
+                ]
+            },
+            "0 vector m_ValueArrayDelta":  {
+                "0 Array Array": [
+                    {"0 ValueDelta data": 
+                    {
+                        "0 float m_Start": 0,
+                        "0 float m_Stop": 28
+                    }}
+                ]
+            },
+            "0 vector m_ValueArrayReferencePose":  {
+                "0 Array Array": []
+            },
+            "0 bool m_Mirror": false,
+            "0 bool m_LoopTime": true,
+            "0 bool m_LoopBlend": false,
+            "0 bool m_LoopBlendOrientation": false,
+            "0 bool m_LoopBlendPositionY": false,
+            "0 bool m_LoopBlendPositionXZ": false,
+            "0 bool m_StartAtOrigin": true,
+            "0 bool m_KeepOriginalOrientation": false,
+            "0 bool m_KeepOriginalPositionY": true,
+            "0 bool m_KeepOriginalPositionXZ": false,
+            "1 bool m_HeightFromFeet": false
+        },
+        "0 AnimationClipBindingConstant m_ClipBindingConstant": 
+        {
+            "0 vector genericBindings":  {
+                "0 Array Array": [
+                    {"0 GenericBinding data": 
+                    {
+                        "0 unsigned int path": 0,
+                        "0 unsigned int attribute": 0,
+                        "0 PPtr<Object> script": 
+                        {
+                            "0 int m_FileID": 0,
+                            "0 SInt64 m_PathID": "0"
+                        },
+                        "0 int typeID": 212,
+                        "0 UInt8 customType": 23,
+                        "1 UInt8 isPPtrCurve": 1
+                    }}
+                ]
+            },
+            "0 vector pptrCurveMapping":  {
+                "0 Array Array": [
+                    {"0 PPtr<Object> data": 
+                    {
+                        "0 int m_FileID": 0,
+                        "0 SInt64 m_PathID": "250"
+                    }},
+                    {"0 PPtr<Object> data": 
+                    {
+                        "0 int m_FileID": 0,
+                        "0 SInt64 m_PathID": "251"
+                    }},
+                    {"0 PPtr<Object> data": 
+                    {
+                        "0 int m_FileID": 0,
+                        "0 SInt64 m_PathID": "252"
+                    }},
+                    {"0 PPtr<Object> data": 
+                    {
+                        "0 int m_FileID": 0,
+                        "0 SInt64 m_PathID": "253"
+                    }},
+                    {"0 PPtr<Object> data": 
+                    {
+                        "0 int m_FileID": 0,
+                        "0 SInt64 m_PathID": "254"
+                    }},
+                    {"0 PPtr<Object> data": 
+                    {
+                        "0 int m_FileID": 0,
+                        "0 SInt64 m_PathID": "255"
+                    }},
+                    {"0 PPtr<Object> data": 
+                    {
+                        "0 int m_FileID": 0,
+                        "0 SInt64 m_PathID": "256"
+                    }},
+                    {"0 PPtr<Object> data": 
+                    {
+                        "0 int m_FileID": 0,
+                        "0 SInt64 m_PathID": "257"
+                    }},
+                    {"0 PPtr<Object> data": 
+                    {
+                        "0 int m_FileID": 0,
+                        "0 SInt64 m_PathID": "258"
+                    }},
+                    {"0 PPtr<Object> data": 
+                    {
+                        "0 int m_FileID": 0,
+                        "0 SInt64 m_PathID": "259"
+                    }},
+                    {"0 PPtr<Object> data": 
+                    {
+                        "0 int m_FileID": 0,
+                        "0 SInt64 m_PathID": "260"
+                    }},
+                    {"0 PPtr<Object> data": 
+                    {
+                        "0 int m_FileID": 0,
+                        "0 SInt64 m_PathID": "261"
+                    }},
+                    {"0 PPtr<Object> data": 
+                    {
+                        "0 int m_FileID": 0,
+                        "0 SInt64 m_PathID": "262"
+                    }},
+                    {"0 PPtr<Object> data": 
+                    {
+                        "0 int m_FileID": 0,
+                        "0 SInt64 m_PathID": "263"
+                    }},
+                    {"0 PPtr<Object> data": 
+                    {
+                        "0 int m_FileID": 0,
+                        "0 SInt64 m_PathID": "264"
+                    }},
+                    {"0 PPtr<Object> data": 
+                    {
+                        "0 int m_FileID": 0,
+                        "0 SInt64 m_PathID": "265"
+                    }},
+                    {"0 PPtr<Object> data": 
+                    {
+                        "0 int m_FileID": 0,
+                        "0 SInt64 m_PathID": "266"
+                    }},
+                    {"0 PPtr<Object> data": 
+                    {
+                        "0 int m_FileID": 0,
+                        "0 SInt64 m_PathID": "267"
+                    }},
+                    {"0 PPtr<Object> data": 
+                    {
+                        "0 int m_FileID": 0,
+                        "0 SInt64 m_PathID": "268"
+                    }},
+                    {"0 PPtr<Object> data": 
+                    {
+                        "0 int m_FileID": 0,
+                        "0 SInt64 m_PathID": "269"
+                    }},
+                    {"0 PPtr<Object> data": 
+                    {
+                        "0 int m_FileID": 0,
+                        "0 SInt64 m_PathID": "270"
+                    }},
+                    {"0 PPtr<Object> data": 
+                    {
+                        "0 int m_FileID": 0,
+                        "0 SInt64 m_PathID": "271"
+                    }},
+                    {"0 PPtr<Object> data": 
+                    {
+                        "0 int m_FileID": 0,
+                        "0 SInt64 m_PathID": "272"
+                    }},
+                    {"0 PPtr<Object> data": 
+                    {
+                        "0 int m_FileID": 0,
+                        "0 SInt64 m_PathID": "273"
+                    }},
+                    {"0 PPtr<Object> data": 
+                    {
+                        "0 int m_FileID": 0,
+                        "0 SInt64 m_PathID": "274"
+                    }},
+                    {"0 PPtr<Object> data": 
+                    {
+                        "0 int m_FileID": 0,
+                        "0 SInt64 m_PathID": "275"
+                    }},
+                    {"0 PPtr<Object> data": 
+                    {
+                        "0 int m_FileID": 0,
+                        "0 SInt64 m_PathID": "276"
+                    }},
+                    {"0 PPtr<Object> data": 
+                    {
+                        "0 int m_FileID": 0,
+                        "0 SInt64 m_PathID": "277"
+                    }},
+                    {"0 PPtr<Object> data": 
+                    {
+                        "0 int m_FileID": 0,
+                        "0 SInt64 m_PathID": "278"
+                    }}
+                ]
+            }
+        },
+        "0 vector m_Events":  {
+            "0 Array Array": []
+        }
+    }
+}
