@@ -1,0 +1,190 @@
+{
+    "0 Material Base": 
+    {
+        "1 string m_Name": "menu",
+        "0 PPtr<Shader> m_Shader": 
+        {
+            "0 int m_FileID": 0,
+            "0 SInt64 m_PathID": "326"
+        },
+        "1 string m_ShaderKeywords": "_EMISSION",
+        "0 unsigned int m_LightmapFlags": 1,
+        "1 bool m_EnableInstancingVariants": false,
+        "0 int m_CustomRenderQueue": -1,
+        "0 map stringTagMap":  {
+            "0 Array Array": []
+        },
+        "0 vector disabledShaderPasses":  {
+            "0 Array Array": []
+        },
+        "0 UnityPropertySheet m_SavedProperties": 
+        {
+            "0 map m_TexEnvs":  {
+                "0 Array Array": []
+            },
+            "0 map m_Floats":  {
+                "0 Array Array": [
+                    {"0 pair data": 
+                    {
+                        "1 string first": "_BumpScale",
+                        "0 float second": 1
+                    }},
+                    {"0 pair data": 
+                    {
+                        "1 string first": "_Cutoff",
+                        "0 float second": 0.5
+                    }},
+                    {"0 pair data": 
+                    {
+                        "1 string first": "_DetailNormalMapScale",
+                        "0 float second": 1
+                    }},
+                    {"0 pair data": 
+                    {
+                        "1 string first": "_DstBlend",
+                        "0 float second": 0
+                    }},
+                    {"0 pair data": 
+                    {
+                        "1 string first": "_Exponent",
+                        "0 float second": 1
+                    }},
+                    {"0 pair data": 
+                    {
+                        "1 string first": "_GlossMapScale",
+                        "0 float second": 1
+                    }},
+                    {"0 pair data": 
+                    {
+                        "1 string first": "_Glossiness",
+                        "0 float second": 0.5
+                    }},
+                    {"0 pair data": 
+                    {
+                        "1 string first": "_GlossyReflections",
+                        "0 float second": 1
+                    }},
+                    {"0 pair data": 
+                    {
+                        "1 string first": "_Intensity",
+                        "0 float second": 1
+                    }},
+                    {"0 pair data": 
+                    {
+                        "1 string first": "_Metallic",
+                        "0 float second": 0
+                    }},
+                    {"0 pair data": 
+                    {
+                        "1 string first": "_Mode",
+                        "0 float second": 0
+                    }},
+                    {"0 pair data": 
+                    {
+                        "1 string first": "_OcclusionStrength",
+                        "0 float second": 1
+                    }},
+                    {"0 pair data": 
+                    {
+                        "1 string first": "_Parallax",
+                        "0 float second": 0.0199999996
+                    }},
+                    {"0 pair data": 
+                    {
+                        "1 string first": "_SmoothnessTextureChannel",
+                        "0 float second": 0
+                    }},
+                    {"0 pair data": 
+                    {
+                        "1 string first": "_SpecularHighlights",
+                        "0 float second": 1
+                    }},
+                    {"0 pair data": 
+                    {
+                        "1 string first": "_SrcBlend",
+                        "0 float second": 1
+                    }},
+                    {"0 pair data": 
+                    {
+                        "1 string first": "_UVSec",
+                        "0 float second": 0
+                    }},
+                    {"0 pair data": 
+                    {
+                        "1 string first": "_UpVectorPitch",
+                        "0 float second": 0
+                    }},
+                    {"0 pair data": 
+                    {
+                        "1 string first": "_UpVectorYaw",
+                        "0 float second": 0
+                    }},
+                    {"0 pair data": 
+                    {
+                        "1 string first": "_ZWrite",
+                        "0 float second": 1
+                    }}
+                ]
+            },
+            "0 map m_Colors":  {
+                "0 Array Array": [
+                    {"0 pair data": 
+                    {
+                        "1 string first": "_Color",
+                        "0 ColorRGBA second": 
+                        {
+                            "0 float r": 1,
+                            "0 float g": 1,
+                            "0 float b": 1,
+                            "0 float a": 1
+                        }
+                    }},
+                    {"0 pair data": 
+                    {
+                        "1 string first": "_Color1",
+                        "0 ColorRGBA second": 
+                        {
+                            "0 float r": 0.588235259,
+                            "0 float g": 0.588235259,
+                            "0 float b": 0.588235259,
+                            "0 float a": 0
+                        }
+                    }},
+                    {"0 pair data": 
+                    {
+                        "1 string first": "_Color2",
+                        "0 ColorRGBA second": 
+                        {
+                            "0 float r": 0.632352948,
+                            "0 float g": 0.632352948,
+                            "0 float b": 0.632352948,
+                            "0 float a": 0
+                        }
+                    }},
+                    {"0 pair data": 
+                    {
+                        "1 string first": "_EmissionColor",
+                        "0 ColorRGBA second": 
+                        {
+                            "0 float r": 0,
+                            "0 float g": 0,
+                            "0 float b": 0,
+                            "0 float a": 1
+                        }
+                    }},
+                    {"0 pair data": 
+                    {
+                        "1 string first": "_UpVector",
+                        "0 ColorRGBA second": 
+                        {
+                            "0 float r": 0,
+                            "0 float g": 1,
+                            "0 float b": 0,
+                            "0 float a": 0
+                        }
+                    }}
+                ]
+            }
+        }
+    }
+}

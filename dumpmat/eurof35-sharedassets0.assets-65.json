@@ -1,0 +1,68 @@
+{
+    "0 Material Base": 
+    {
+        "1 string m_Name": "Font Material",
+        "0 PPtr<Shader> m_Shader": 
+        {
+            "0 int m_FileID": 3,
+            "0 SInt64 m_PathID": "10101"
+        },
+        "1 string m_ShaderKeywords": "",
+        "0 unsigned int m_LightmapFlags": 4,
+        "1 bool m_EnableInstancingVariants": false,
+        "0 int m_CustomRenderQueue": -1,
+        "0 map stringTagMap":  {
+            "0 Array Array": []
+        },
+        "0 vector disabledShaderPasses":  {
+            "0 Array Array": []
+        },
+        "0 UnityPropertySheet m_SavedProperties": 
+        {
+            "0 map m_TexEnvs":  {
+                "0 Array Array": [
+                    {"0 pair data": 
+                    {
+                        "1 string first": "_MainTex",
+                        "0 UnityTexEnv second": 
+                        {
+                            "0 PPtr<Texture> m_Texture": 
+                            {
+                                "0 int m_FileID": 0,
+                                "0 SInt64 m_PathID": "85"
+                            },
+                            "0 Vector2f m_Scale": 
+                            {
+                                "0 float x": 1,
+                                "0 float y": 1
+                            },
+                            "0 Vector2f m_Offset": 
+                            {
+                                "0 float x": 0,
+                                "0 float y": 0
+                            }
+                        }
+                    }}
+                ]
+            },
+            "0 map m_Floats":  {
+                "0 Array Array": []
+            },
+            "0 map m_Colors":  {
+                "0 Array Array": [
+                    {"0 pair data": 
+                    {
+                        "1 string first": "_Color",
+                        "0 ColorRGBA second": 
+                        {
+                            "0 float r": 1,
+                            "0 float g": 1,
+                            "0 float b": 1,
+                            "0 float a": 1
+                        }
+                    }}
+                ]
+            }
+        }
+    }
+}

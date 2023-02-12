@@ -1,0 +1,336 @@
+{
+    "0 Material Base": 
+    {
+        "1 string m_Name": "Material",
+        "0 PPtr<Shader> m_Shader": 
+        {
+            "0 int m_FileID": 0,
+            "0 SInt64 m_PathID": "323"
+        },
+        "1 string m_ShaderKeywords": "_EMISSION",
+        "0 unsigned int m_LightmapFlags": 1,
+        "1 bool m_EnableInstancingVariants": false,
+        "0 int m_CustomRenderQueue": -1,
+        "0 map stringTagMap":  {
+            "0 Array Array": []
+        },
+        "0 vector disabledShaderPasses":  {
+            "0 Array Array": []
+        },
+        "0 UnityPropertySheet m_SavedProperties": 
+        {
+            "0 map m_TexEnvs":  {
+                "0 Array Array": [
+                    {"0 pair data": 
+                    {
+                        "1 string first": "_BumpMap",
+                        "0 UnityTexEnv second": 
+                        {
+                            "0 PPtr<Texture> m_Texture": 
+                            {
+                                "0 int m_FileID": 0,
+                                "0 SInt64 m_PathID": "0"
+                            },
+                            "0 Vector2f m_Scale": 
+                            {
+                                "0 float x": 1,
+                                "0 float y": 1
+                            },
+                            "0 Vector2f m_Offset": 
+                            {
+                                "0 float x": 0,
+                                "0 float y": 0
+                            }
+                        }
+                    }},
+                    {"0 pair data": 
+                    {
+                        "1 string first": "_DetailAlbedoMap",
+                        "0 UnityTexEnv second": 
+                        {
+                            "0 PPtr<Texture> m_Texture": 
+                            {
+                                "0 int m_FileID": 0,
+                                "0 SInt64 m_PathID": "0"
+                            },
+                            "0 Vector2f m_Scale": 
+                            {
+                                "0 float x": 1,
+                                "0 float y": 1
+                            },
+                            "0 Vector2f m_Offset": 
+                            {
+                                "0 float x": 0,
+                                "0 float y": 0
+                            }
+                        }
+                    }},
+                    {"0 pair data": 
+                    {
+                        "1 string first": "_DetailMask",
+                        "0 UnityTexEnv second": 
+                        {
+                            "0 PPtr<Texture> m_Texture": 
+                            {
+                                "0 int m_FileID": 0,
+                                "0 SInt64 m_PathID": "0"
+                            },
+                            "0 Vector2f m_Scale": 
+                            {
+                                "0 float x": 1,
+                                "0 float y": 1
+                            },
+                            "0 Vector2f m_Offset": 
+                            {
+                                "0 float x": 0,
+                                "0 float y": 0
+                            }
+                        }
+                    }},
+                    {"0 pair data": 
+                    {
+                        "1 string first": "_DetailNormalMap",
+                        "0 UnityTexEnv second": 
+                        {
+                            "0 PPtr<Texture> m_Texture": 
+                            {
+                                "0 int m_FileID": 0,
+                                "0 SInt64 m_PathID": "0"
+                            },
+                            "0 Vector2f m_Scale": 
+                            {
+                                "0 float x": 1,
+                                "0 float y": 1
+                            },
+                            "0 Vector2f m_Offset": 
+                            {
+                                "0 float x": 0,
+                                "0 float y": 0
+                            }
+                        }
+                    }},
+                    {"0 pair data": 
+                    {
+                        "1 string first": "_EmissionMap",
+                        "0 UnityTexEnv second": 
+                        {
+                            "0 PPtr<Texture> m_Texture": 
+                            {
+                                "0 int m_FileID": 0,
+                                "0 SInt64 m_PathID": "0"
+                            },
+                            "0 Vector2f m_Scale": 
+                            {
+                                "0 float x": 1,
+                                "0 float y": 1
+                            },
+                            "0 Vector2f m_Offset": 
+                            {
+                                "0 float x": 0,
+                                "0 float y": 0
+                            }
+                        }
+                    }},
+                    {"0 pair data": 
+                    {
+                        "1 string first": "_MainTex",
+                        "0 UnityTexEnv second": 
+                        {
+                            "0 PPtr<Texture> m_Texture": 
+                            {
+                                "0 int m_FileID": 0,
+                                "0 SInt64 m_PathID": "0"
+                            },
+                            "0 Vector2f m_Scale": 
+                            {
+                                "0 float x": 1,
+                                "0 float y": 1
+                            },
+                            "0 Vector2f m_Offset": 
+                            {
+                                "0 float x": 0,
+                                "0 float y": 0
+                            }
+                        }
+                    }},
+                    {"0 pair data": 
+                    {
+                        "1 string first": "_MetallicGlossMap",
+                        "0 UnityTexEnv second": 
+                        {
+                            "0 PPtr<Texture> m_Texture": 
+                            {
+                                "0 int m_FileID": 0,
+                                "0 SInt64 m_PathID": "0"
+                            },
+                            "0 Vector2f m_Scale": 
+                            {
+                                "0 float x": 1,
+                                "0 float y": 1
+                            },
+                            "0 Vector2f m_Offset": 
+                            {
+                                "0 float x": 0,
+                                "0 float y": 0
+                            }
+                        }
+                    }},
+                    {"0 pair data": 
+                    {
+                        "1 string first": "_OcclusionMap",
+                        "0 UnityTexEnv second": 
+                        {
+                            "0 PPtr<Texture> m_Texture": 
+                            {
+                                "0 int m_FileID": 0,
+                                "0 SInt64 m_PathID": "0"
+                            },
+                            "0 Vector2f m_Scale": 
+                            {
+                                "0 float x": 1,
+                                "0 float y": 1
+                            },
+                            "0 Vector2f m_Offset": 
+                            {
+                                "0 float x": 0,
+                                "0 float y": 0
+                            }
+                        }
+                    }},
+                    {"0 pair data": 
+                    {
+                        "1 string first": "_ParallaxMap",
+                        "0 UnityTexEnv second": 
+                        {
+                            "0 PPtr<Texture> m_Texture": 
+                            {
+                                "0 int m_FileID": 0,
+                                "0 SInt64 m_PathID": "0"
+                            },
+                            "0 Vector2f m_Scale": 
+                            {
+                                "0 float x": 1,
+                                "0 float y": 1
+                            },
+                            "0 Vector2f m_Offset": 
+                            {
+                                "0 float x": 0,
+                                "0 float y": 0
+                            }
+                        }
+                    }}
+                ]
+            },
+            "0 map m_Floats":  {
+                "0 Array Array": [
+                    {"0 pair data": 
+                    {
+                        "1 string first": "_BumpScale",
+                        "0 float second": 1
+                    }},
+                    {"0 pair data": 
+                    {
+                        "1 string first": "_Cutoff",
+                        "0 float second": 0.5
+                    }},
+                    {"0 pair data": 
+                    {
+                        "1 string first": "_DetailNormalMapScale",
+                        "0 float second": 1
+                    }},
+                    {"0 pair data": 
+                    {
+                        "1 string first": "_DstBlend",
+                        "0 float second": 0
+                    }},
+                    {"0 pair data": 
+                    {
+                        "1 string first": "_GlossMapScale",
+                        "0 float second": 1
+                    }},
+                    {"0 pair data": 
+                    {
+                        "1 string first": "_Glossiness",
+                        "0 float second": 0.600000024
+                    }},
+                    {"0 pair data": 
+                    {
+                        "1 string first": "_GlossyReflections",
+                        "0 float second": 1
+                    }},
+                    {"0 pair data": 
+                    {
+                        "1 string first": "_Metallic",
+                        "0 float second": 0
+                    }},
+                    {"0 pair data": 
+                    {
+                        "1 string first": "_Mode",
+                        "0 float second": 0
+                    }},
+                    {"0 pair data": 
+                    {
+                        "1 string first": "_OcclusionStrength",
+                        "0 float second": 1
+                    }},
+                    {"0 pair data": 
+                    {
+                        "1 string first": "_Parallax",
+                        "0 float second": 0.0199999996
+                    }},
+                    {"0 pair data": 
+                    {
+                        "1 string first": "_SmoothnessTextureChannel",
+                        "0 float second": 0
+                    }},
+                    {"0 pair data": 
+                    {
+                        "1 string first": "_SpecularHighlights",
+                        "0 float second": 1
+                    }},
+                    {"0 pair data": 
+                    {
+                        "1 string first": "_SrcBlend",
+                        "0 float second": 1
+                    }},
+                    {"0 pair data": 
+                    {
+                        "1 string first": "_UVSec",
+                        "0 float second": 0
+                    }},
+                    {"0 pair data": 
+                    {
+                        "1 string first": "_ZWrite",
+                        "0 float second": 1
+                    }}
+                ]
+            },
+            "0 map m_Colors":  {
+                "0 Array Array": [
+                    {"0 pair data": 
+                    {
+                        "1 string first": "_Color",
+                        "0 ColorRGBA second": 
+                        {
+                            "0 float r": 0.800000012,
+                            "0 float g": 0.800000012,
+                            "0 float b": 0.800000012,
+                            "0 float a": 1
+                        }
+                    }},
+                    {"0 pair data": 
+                    {
+                        "1 string first": "_EmissionColor",
+                        "0 ColorRGBA second": 
+                        {
+                            "0 float r": 0,
+                            "0 float g": 0,
+                            "0 float b": 0,
+                            "0 float a": 1
+                        }
+                    }}
+                ]
+            }
+        }
+    }
+}
