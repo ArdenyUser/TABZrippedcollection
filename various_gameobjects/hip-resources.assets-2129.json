@@ -1,0 +1,48 @@
+{
+    "0 GameObject Base": 
+    {
+        "0 vector m_Component":  {
+            "0 Array Array": [
+                {"0 ComponentPair data":  {
+                    "0 PPtr<Component> component": 
+                    {
+                        "0 int m_FileID": 0,
+                        "0 SInt64 m_PathID": "3696"
+                    }
+                }},
+                {"0 ComponentPair data":  {
+                    "0 PPtr<Component> component": 
+                    {
+                        "0 int m_FileID": 0,
+                        "0 SInt64 m_PathID": "6726"
+                    }
+                }},
+                {"0 ComponentPair data":  {
+                    "0 PPtr<Component> component": 
+                    {
+                        "0 int m_FileID": 0,
+                        "0 SInt64 m_PathID": "8069"
+                    }
+                }},
+                {"0 ComponentPair data":  {
+                    "0 PPtr<Component> component": 
+                    {
+                        "0 int m_FileID": 0,
+                        "0 SInt64 m_PathID": "8088"
+                    }
+                }},
+                {"0 ComponentPair data":  {
+                    "0 PPtr<Component> component": 
+                    {
+                        "0 int m_FileID": 0,
+                        "0 SInt64 m_PathID": "8054"
+                    }
+                }}
+            ]
+        },
+        "0 unsigned int m_Layer": 0,
+        "1 string m_Name": "hip",
+        "0 UInt16 m_Tag": 0,
+        "0 bool m_IsActive": true
+    }
+}
