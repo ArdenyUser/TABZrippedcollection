@@ -1,0 +1,41 @@
+{
+    "0 GameObject Base": 
+    {
+        "0 vector m_Component":  {
+            "0 Array Array": [
+                {"0 ComponentPair data":  {
+                    "0 PPtr<Component> component": 
+                    {
+                        "0 int m_FileID": 0,
+                        "0 SInt64 m_PathID": "4981"
+                    }
+                }},
+                {"0 ComponentPair data":  {
+                    "0 PPtr<Component> component": 
+                    {
+                        "0 int m_FileID": 0,
+                        "0 SInt64 m_PathID": "6270"
+                    }
+                }},
+                {"0 ComponentPair data":  {
+                    "0 PPtr<Component> component": 
+                    {
+                        "0 int m_FileID": 0,
+                        "0 SInt64 m_PathID": "7045"
+                    }
+                }},
+                {"0 ComponentPair data":  {
+                    "0 PPtr<Component> component": 
+                    {
+                        "0 int m_FileID": 0,
+                        "0 SInt64 m_PathID": "5721"
+                    }
+                }}
+            ]
+        },
+        "0 unsigned int m_Layer": 0,
+        "1 string m_Name": "collider",
+        "0 UInt16 m_Tag": 0,
+        "0 bool m_IsActive": true
+    }
+}
