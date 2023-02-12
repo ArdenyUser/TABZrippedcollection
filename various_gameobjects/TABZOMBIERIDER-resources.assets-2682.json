@@ -1,0 +1,118 @@
+{
+    "0 GameObject Base": 
+    {
+        "0 vector m_Component":  {
+            "0 Array Array": [
+                {"0 ComponentPair data":  {
+                    "0 PPtr<Component> component": 
+                    {
+                        "0 int m_FileID": 0,
+                        "0 SInt64 m_PathID": "4658"
+                    }
+                }},
+                {"0 ComponentPair data":  {
+                    "0 PPtr<Component> component": 
+                    {
+                        "0 int m_FileID": 0,
+                        "0 SInt64 m_PathID": "7901"
+                    }
+                }},
+                {"0 ComponentPair data":  {
+                    "0 PPtr<Component> component": 
+                    {
+                        "0 int m_FileID": 0,
+                        "0 SInt64 m_PathID": "8015"
+                    }
+                }},
+                {"0 ComponentPair data":  {
+                    "0 PPtr<Component> component": 
+                    {
+                        "0 int m_FileID": 0,
+                        "0 SInt64 m_PathID": "7946"
+                    }
+                }},
+                {"0 ComponentPair data":  {
+                    "0 PPtr<Component> component": 
+                    {
+                        "0 int m_FileID": 0,
+                        "0 SInt64 m_PathID": "8635"
+                    }
+                }},
+                {"0 ComponentPair data":  {
+                    "0 PPtr<Component> component": 
+                    {
+                        "0 int m_FileID": 0,
+                        "0 SInt64 m_PathID": "7842"
+                    }
+                }},
+                {"0 ComponentPair data":  {
+                    "0 PPtr<Component> component": 
+                    {
+                        "0 int m_FileID": 0,
+                        "0 SInt64 m_PathID": "8630"
+                    }
+                }},
+                {"0 ComponentPair data":  {
+                    "0 PPtr<Component> component": 
+                    {
+                        "0 int m_FileID": 0,
+                        "0 SInt64 m_PathID": "8166"
+                    }
+                }},
+                {"0 ComponentPair data":  {
+                    "0 PPtr<Component> component": 
+                    {
+                        "0 int m_FileID": 0,
+                        "0 SInt64 m_PathID": "8576"
+                    }
+                }},
+                {"0 ComponentPair data":  {
+                    "0 PPtr<Component> component": 
+                    {
+                        "0 int m_FileID": 0,
+                        "0 SInt64 m_PathID": "8464"
+                    }
+                }},
+                {"0 ComponentPair data":  {
+                    "0 PPtr<Component> component": 
+                    {
+                        "0 int m_FileID": 0,
+                        "0 SInt64 m_PathID": "8198"
+                    }
+                }},
+                {"0 ComponentPair data":  {
+                    "0 PPtr<Component> component": 
+                    {
+                        "0 int m_FileID": 0,
+                        "0 SInt64 m_PathID": "7831"
+                    }
+                }},
+                {"0 ComponentPair data":  {
+                    "0 PPtr<Component> component": 
+                    {
+                        "0 int m_FileID": 0,
+                        "0 SInt64 m_PathID": "7799"
+                    }
+                }},
+                {"0 ComponentPair data":  {
+                    "0 PPtr<Component> component": 
+                    {
+                        "0 int m_FileID": 0,
+                        "0 SInt64 m_PathID": "8148"
+                    }
+                }},
+                {"0 ComponentPair data":  {
+                    "0 PPtr<Component> component": 
+                    {
+                        "0 int m_FileID": 0,
+                        "0 SInt64 m_PathID": "7724"
+                    }
+                }}
+            ]
+        },
+        "0 unsigned int m_Layer": 0,
+        "1 string m_Name": "TABZOMBIERIDER",
+        "0 UInt16 m_Tag": 6,
+        "0 bool m_IsActive": true
+    }
+}
